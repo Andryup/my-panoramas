@@ -4,34 +4,7 @@
     <Author>Photospheric</Author>
     <InfoPageHTML>
         Panoramic image by me <br/> :) <br/> <br/>
-        <i>some italiano text</i>
-        <h1>I love small femboys and <a href="https://google.com/">stuff</a></h1>
-        <h2>Yay</h2>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        har<br>
-        
+        Test location:
+        <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.843218088150028%2C53.70921192054975%2C23.855985403060917%2C53.71377113294311&amp;layer=mapnik&amp;marker=53.711491588507485%2C23.84960174560547" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.711492&amp;mlon=23.849602#map=17/53.711492/23.849602">Посмотреть более крупную карту</a></small>
     </InfoPageHTML>
 </PanoramaInfo>
