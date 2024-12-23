@@ -7,7 +7,7 @@
         <br>
         https://polyhaven.com/a/rosendal_plains_2
         <h3>Panoramic image location:</h3><br/>
-        <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=27.873025238513947%2C-28.49746754046511%2C27.876217067241672%2C-28.495775037370798&amp;layer=mapnik&amp;marker=-28.496621292310692%2C27.874621152877808" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-28.496621&amp;mlon=27.874621#map=19/-28.496621/27.874621">View a bigger map</a></small>
+        <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=27.873025238513947%2C-28.49746754046511%2C27.876217067241672%2C-28.495775037370798&amp;layer=mapnik&amp;marker=-28.496621292310692%2C27.874621152877808" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-28.496621&amp;mlon=27.874621#map=19/-28.496621/27.874621">View a bigger map</a></small>
         
     </InfoPageHTML>
 </PanoramaInfo>
