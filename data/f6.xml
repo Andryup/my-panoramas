@@ -8,6 +8,6 @@
 		У этого форта есть продолжение, но там я пока что не был.
 		<br>
 		GPS Location:<br>
-		<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.7755298614502%2C53.593889787965615%2C23.781913518905643%2C53.59617569985326&amp;layer=mapnik&amp;marker=53.59503197860033%2C23.778719497911993" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.595032&amp;mlon=23.778719#map=18/53.595032/23.778719">Посмотреть более крупную карту</a></small>
+		<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.7755298614502%2C53.593889787965615%2C23.781913518905643%2C53.59617569985326&amp;layer=mapnik&amp;marker=53.59503197860033%2C23.778719497911993" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.595032&amp;mlon=23.778719#map=18/53.595032/23.778719">Посмотреть более крупную карту</a></small>
 	</InfoPageHTML>
 </PanoramaInfo>
