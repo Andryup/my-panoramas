@@ -1,0 +1,11 @@
+<PanoramaInfo>
+	<PanoramaURL url="https://i.imgur.com/LU97YvU.jpeg"/>
+	<Title>Пустой маяк</Title>
+	<Author>Andrevind</Author>
+	<InfoPageHTML>
+		Я еще никогда в жизни не видал пустого маяка<br>
+		<br>
+		<h6>GPS Location:</h6>
+		<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.830713629722595%2C53.663783329742444%2C23.83390545845032%2C53.664924409550004&amp;layer=mapnik&amp;marker=53.66435387350828%2C23.832309544086456" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.664354&amp;mlon=23.832310#map=19/53.664354/23.832310">Посмотреть более крупную карту</a></small>
+	</InfoPageHTML>
+</PanoramaInfo>
