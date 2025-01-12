@@ -4,6 +4,7 @@
 	<Author>Andrevind</Author>
 	<InfoPageHTML>
 		Ходили туда пешком в снегодождь. Лестница оледенела, поэтому внутри (на момет публикации) ещё не был.
+		<!-- Test edit -->
 		<br><br>
 		<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.943701684474945%2C53.722254842025514%2C23.945954740047455%2C53.723334031242175&amp;layer=mapnik&amp;marker=53.72279444009571%2C23.9448282122612" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.722794&amp;mlon=23.944828#map=19/53.722794/23.944828">View Larger Map</a></small>
 	</InfoPageHTML>
