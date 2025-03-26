@@ -3,10 +3,10 @@
 	<PanoramaURL url="https://i.imgur.com/XHiCEfe.jpeg"/>
 	<Title>Первый форт (Вид внутри 1)</Title>
 	<Author>Andrevind</Author>
-	<InfoPageHTML>Так выглядит первый форт внутри.
-Туда было сложно проникнуть.
-
-16.03.2025
-
-&lt;iframe width=&quot;100%&quot; height=&quot;350&quot; src=&quot;https://www.openstreetmap.org/export/embed.html?bbox=23.710644543170933%2C53.733399310784%2C23.712897598743442%2C53.73447821398689&amp;amp;layer=mapnik&amp;amp;marker=53.733938765846894%2C23.711771070957184&quot; style=&quot;border: 1px solid black&quot;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&quot;https://www.openstreetmap.org/?mlat=53.733939&amp;amp;mlon=23.711771#map=19/53.733939/23.711771&quot;&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;</InfoPageHTML>
+	<InfoPageHTML>Так выглядит первый форт внутри.<br/>
+			Туда было сложно проникнуть.<br/>
+			<br/>
+			16.03.2025<br/>
+		<br/>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=23.710644543170933%2C53.733399310784%2C23.712897598743442%2C53.73447821398689&amp;layer=mapnik&amp;marker=53.733938765846894%2C23.711771070957184" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.733939&amp;mlon=23.711771#map=19/53.733939/23.711771">View Larger Map</a></small></InfoPageHTML>
 </PanoramaInfo>
